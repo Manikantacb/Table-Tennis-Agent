@@ -1,0 +1,2 @@
+# Table-Tennis-Agent
+The objective of our project is to understand how we can use machine learning algorithms to train dual AI agents to play a game of table tennis. Through this process we develop both dual-agent and single-agent game, exploring different RL models. Our efforts delivers very capable table-tennis agents that can serve and return similar to a human player. Our models have produced strong performance baselines that should encourage future explorations.
